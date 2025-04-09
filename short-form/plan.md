@@ -26,20 +26,22 @@
 
 ## Intro (50 Words)
 
-- Building LLM; early in training, random noise.
-- Reminded me of baby cousin making random noises when she started
-  speaking.
-- Made me curious: how do children learn languages? How different is it
-  from LLMs?
+- Playing with my very young cousin, made incomprehensible babbling noises
+- Reminded me of LLM responses in early training phases: complete
+  gibberish.
+- Made me question how humans learn language, and is it anything like
+  LLMs?
 
 ## Language acquired in phases (120 Words)
 
-- Reflexive vocalisation -> babbling -> words
+- Consistent phases: reflexive vocalisation -> babbling -> words
 - MLU increases with time, with the earliest multi-word utterances all
-  being gramatically predictable.
+  being gramatically predictable. Shows clear internal structure is being
+  acquired (or is there, if you ask a nativist)
 - Interestingly, spoken languages are acquired at the same rate as signed
-  languages (aside from one word stage: this is a physiological limitation,
-  as evidenced by bilingual signing/speaking children)
+  languages: **modality independence**
+- Exception: time to arrive at one word stage. This is a physiological
+  limitation, as evidenced by bilingual signing/speaking children)
 
 ## Receptive Language Ability (Children's language learning inputs)
 
