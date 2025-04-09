@@ -1,0 +1,11 @@
+venv
+*.aux
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.pdf
+*.bbl
+*.blg
+*.blg
+.DS_Store

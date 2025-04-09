@@ -1,0 +1,5 @@
+site_name: My Docs
+nav:
+  - Blog: index.md
+  - Target: plan.md
+  - Spec: spec.md
