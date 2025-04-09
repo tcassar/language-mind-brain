@@ -18,3 +18,7 @@ theme:
   font: false
   logo: null
   favicon: null
+
+plugins:
+  - search
+  - macros

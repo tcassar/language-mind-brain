@@ -1,5 +1,7 @@
 # How LLMs and Children Learn Languages
 
+{{ reading_stats(page.markdown)['time'] }} · {{ reading_stats(page.markdown)['words'] }}
+
 The other day, I was working on a very basic Large Language Model (LLM)
 implementation from scratch. In the early phases of training the LLM would
 respond to prompts with random noise - as is expected for an untrained model.
