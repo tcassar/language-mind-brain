@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# How LLMs and Children Learn Languages
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The other day, I was working on a very basic Large Language Model (LLM)
+implementation from scratch. In the early phases of training the LLM would
+respond to prompts with random noise - as is expected for an untrained model.
 
-## Commands
+I knew the theory, but seeing it in practice made me think about my three year
+old cousin. When she was learning to speak, she started by making (apparently)
+random sounding noises which over time became words and sentences. Now, she's
+able to hold conversations. I wanted to find out what the similarities and
+differences were between how children learn language and how LLMs "learn"
+language.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This blog post will focus mainly on a branch of linguistics called _Child
+Language Development_ (CLD). I will draw comparisons to LLMs but won't go into
+detail on how they are trained. If you are interested, [Spheron](https://blog.spheron.network/how-to-build-an-llm-from-scratch-a-step-by-step-guide) has a good blog post about LLMs from scratch.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<figure style="text-align: center">
+  <img src="https://imgs.xkcd.com/comics/language_acquisition.png" width="200">
+  <figcaption>XKCD Comic: Language Acquistion</figcaption>
+</figure>

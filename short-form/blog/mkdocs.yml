@@ -1,5 +1,20 @@
-site_name: My Docs
+site_name: Typey Typey!
 nav:
   - Blog: index.md
-  - Target: plan.md
-  - Spec: spec.md
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.instant
+    - navigation.top
+  font: false
+  logo: null
+  favicon: null
