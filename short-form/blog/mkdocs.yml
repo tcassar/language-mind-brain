@@ -19,7 +19,12 @@ theme:
   font: false
   logo: null
   favicon: null
-
 plugins:
   - search
   - macros
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://www.github.com/tcassar
+      name: tcassar on github
+copyright: Copyright &copy; 2025 Tom Cassar
