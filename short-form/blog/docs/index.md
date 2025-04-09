@@ -4,10 +4,8 @@
   {{ reading_stats(page.markdown)['time'] }} · {{ reading_stats(page.markdown)['words'] }} (excl. titles, captions)
 </p>
 
-Playing with my baby cousin means hearing random utterances which don't even
-resemble words - like the output an untrained [Large Language Model](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/) (LLM) generates in its early rounds of training.
-
-This got me thinking: how do children learn languages, and is it in any way
+Playing with my baby cousin means listening to nonsensical, non-verbal utterances that
+don't even resemble words - much like the outputs of an untrained [LLM](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/). This got me thinking: how do children learn languages, and is it in any way
 similar to training an LLM?
 
 <figure style="text-align: center"> <img src="https://imgs.xkcd.com/comics/language_acquisition.png" width="200"> <figcaption><a href="https://xkcd.com/2839/">XKCD 2839: Language Acquisition</a></figcaption> </figure>
