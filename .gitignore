@@ -1,5 +1,14 @@
+# Python
 venv
 __pycache__
+
+# mkdocs
+site
+
+# aspell
+*.bak 
+
+# LaTeX
 *.aux
 *.fls
 *.fdb_latexmk
