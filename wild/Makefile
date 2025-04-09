@@ -13,11 +13,6 @@ $(addprefix watch-, $(BASENAMES)):
 	@BASENAME=$(@:watch-%=%); \
 	latexmk -pdf -pvc $$BASENAME.tex
 
-
-$(addprefix count-, $(BASENAMES)):
-	@BASENAME=$(@:count-%=%); \ 
-	@texcount $$BASENAME.tex
-
 clean:
 	latexmk -C
 
