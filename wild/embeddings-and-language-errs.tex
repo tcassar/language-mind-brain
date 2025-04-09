@@ -1,41 +1,6 @@
 \documentclass[fontsize=12pt]{article}
-\usepackage{amsmath}
-\usepackage[a4paper, total={5in, 9in}]{geometry}
-\usepackage{graphicx} 
-\usepackage{cite}
-\usepackage[hidelinks]{hyperref}
-\usepackage{adjustbox}
-\usepackage[dvipsnames]{xcolor}
-\usepackage{marginnote}
-\usepackage{booktabs}
-\usepackage{gensymb}
-\let\marginpar\marginnote
-\usepackage{multicol}
-\usepackage{float}
-\usepackage{acro}
-\definecolor{deepnavy}{RGB}{59, 40, 150}
-\definecolor{mutedsage}{RGB}{25, 114, 120}
-\definecolor{warmterracotta}{RGB}{193, 41, 46}
 
-\let\oldphi\phi
-\renewcommand{\phi}{\varphi}
-
-\newenvironment{Figure}
-  {\par\medskip\noindent\minipage{\linewidth}}
-  {\endminipage\par\medskip}
-
-\hypersetup{
-    colorlinks=true,
-    linkcolor=deepnavy,
-    citecolor=mutedsage,
-    urlcolor=warmterracotta,
-}
- 
-\addtolength{\oddsidemargin}{-0.4in}
-\addtolength{\evensidemargin}{-0.4in}
-\addtolength{\textwidth}{0.8in}
-\addtolength{\topmargin}{-.5in}
-\addtolength{\textheight}{1.0in}
+\usepackage{spotted}
 
 \DeclareAcronym{llm}{
     short = LLM,
@@ -48,8 +13,6 @@
     short=BERT,
     long=Bidirectional Encoder Representations from Transformers
 }
-
-\setlength{\parindent}{0pt}
 
 \title{ Embeddings and Language Production}
 \author{Week 7, Spotted in the Wild}
