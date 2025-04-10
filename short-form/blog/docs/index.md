@@ -4,8 +4,8 @@
   {{ reading_stats(page.markdown)['time'] }} · {{ reading_stats(page.markdown)['words'] }} (excl. titles, captions)
 </p>
 
-Playing with my baby cousin means listening to nonsensical, non-verbal utterances that
-don't even resemble words - much like the outputs of an untrained [LLM](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/). This got me thinking: how do children learn languages, and is it in any way
+Playing with my baby cousin means listening to nonsensical utterances that
+barely resemble words - much like the outputs of an untrained [LLM](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/). This got me thinking: how do children learn languages, and is it in any way
 similar to training an LLM?
 
 <figure style="text-align: center"> <img src="https://imgs.xkcd.com/comics/language_acquisition.png" width="200"> <figcaption><a href="https://xkcd.com/2839/">XKCD 2839: Language Acquisition</a></figcaption> </figure>
@@ -24,7 +24,7 @@ child linguistic studies) increases.
 <figure style="text-align: center"> <img src="./img/language-acq.svg" width="500"> <figcaption>A (simplified) diagram showing the key stages of language acquisition.</figcaption> </figure>
 
 In the two-word stage, children produce utterances **in correct grammatical
-order**, which suggests they have learned (or
+order**, which suggests they have learned (or, perhaps,
 [innately have](#nativism-behaviourism-and-llms)) grammatical structure.
 
 Interestingly, these typical developmental milestones don't vary across
@@ -56,7 +56,7 @@ latter is not found in English but in Hindi.
 <figure style="text-align: center"> <img src="./img/head-turn.png" width="500"> <figcaption>A child and their caregiver about to undergo a head turn test.</figcaption> </figure>
 
 Conditional head turn tests show that hearing English infants can
-differentiate the two up till a year old. After that, no difference.
+differentiate the two sounds up till a year old. After that, no difference.
 
 This tuning suggests that the stimulus children have when acquiring language
 can vary wildly after a year. A key debate in CLD is whether children learn
@@ -94,5 +94,5 @@ differences - especially in the volume of data LLMs are exposed to.
 
 I think this article can be summed up by the popular analogy:
 
-> _"One wouldn't start studying an aeroplane to gain understanding about how
+> _"One wouldn't study an aeroplane to gain understanding about how
 > birds fly."_
