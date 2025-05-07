@@ -47,7 +47,7 @@ altering the phoneme identification process itself (Norris, McQueen, & Cutler, 2
 
 - Reorganisation isn't free: affected children sometimes showing slightly
   lower overall cognitive/language performance (lower end of normal range) - Suggests
-  that the adaptation is not "_as good as_" the specialised centres - 
+  that the adaptation is not "_as good as_" the specialised centres -
   https://bdil.sdsu.edu/wp-content/uploads/2017/08/Muller-ch-2000.pdf
 
 ## Language uses general cognitive resources

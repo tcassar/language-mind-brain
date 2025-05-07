@@ -1,5 +1,5 @@
 LATEXCC=latexmk
-LATEX_FLAGS=-pdf
+LATEX_FLAGS=-pdf -shell-escape
 TAGRET=main.tex
 
 interactive:
