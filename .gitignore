@@ -19,3 +19,12 @@ site
 *.blg
 *.blg
 .DS_Store
+
+# screencast
+**/youtube-dl
+*.mp4
+*.mov
+*.m4a
+*.opus
+*.wav
+
